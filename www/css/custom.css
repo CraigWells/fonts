@@ -1,0 +1,28 @@
+﻿.impact{ font-family: Impact, Charcoal, sans-serif; }
+.Palatino-Linotype{ font-family: ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif; }
+.Tahoma{ font-family: Tahoma, Geneva, sans-serif; }
+.Century-Gothic{ font-family: Century Gothic, sans-serif; }
+.Lucida-Sans-Unicode{ font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif; }
+.Arial-Black{ font-family: ‘Arial Black’, Gadget, sans-serif; }
+.Times-New-Roman{ font-family: ‘Times New Roman’, Times, serif; }
+.Arial-Narrow{ font-family: ‘Arial Narrow’, sans-serif; }
+.Verdana{ font-family: Verdana, Geneva, sans-serif; }
+.Copperplate{ font-family: Copperplate, sans-serif; }
+.Copperplate-Gothic-Light{ font-family: Copperplate Gothic Light, sans-serif; }
+.Lucida-Console{ font-family: ‘Lucida Console’, Monaco, monospace; }
+.Gill-Sans{ font-family: Gill Sans, Gill Sans MT; }
+.Trebuchet-MS{ font-family: ‘Trebuchet MS’, Helvetica, sans-serif; }
+.Courier-New{ font-family: ‘Courier New’, Courier, monospace; }
+.Arial{ font-family: Arial, Helvetica, sans-serif; }
+.Constantina{ font-family: Constantia, "Palatino Linotype", Palatino, Georgia, serif; }
+
+
+.font-item{
+	text-decoration: none;
+    color: black;
+}
+
+.font-item:hover{
+	color:grey;
+	cursor:pointer;
+}
