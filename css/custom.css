@@ -1,0 +1,8 @@
+﻿a.impact{
+	text-decoration: none;
+    color: black;
+}
+
+a.impact:hover{
+	color:grey;
+}
